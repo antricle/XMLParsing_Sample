@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<Customers>
+  <CustomerDetails>
+    <Name>Bill Gates</Name>
+    <Address1>1 Microsoft Way</Address1>
+    <Address2>Seattle</Address2>
+    <Address3>Washington</Address3>
+    <Address4></Address4>
+    <Postcode />
+    <Telephone />
+    <Mobile />
+    <Fax />
+    <Email>
+      <WorkEmail>bill.g@microsoft.com</WorkEmail>
+      <PersonalEmail>bill.g@gmail.com</PersonalEmail>
+    </Email>
+  </CustomerDetails>
+</Customers>
+
+
